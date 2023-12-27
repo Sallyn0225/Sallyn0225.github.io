@@ -3,11 +3,11 @@
   <title>咲凌的博客</title>
   
   <subtitle>Sallyn Blog</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://sallyn0225.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://sallyn0225.github.io/"/>
   <updated>2023-12-27T06:33:58.941Z</updated>
-  <id>http://example.com/</id>
+  <id>https://sallyn0225.github.io/</id>
   
   <author>
     <name>咲凌</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2023/12/27/hello-world/"/>
-    <id>http://example.com/2023/12/27/hello-world/</id>
+    <link href="https://sallyn0225.github.io/2023/12/27/hello-world/"/>
+    <id>https://sallyn0225.github.io/2023/12/27/hello-world/</id>
     <published>2023-12-27T06:33:58.941Z</published>
     <updated>2023-12-27T06:33:58.941Z</updated>
     
