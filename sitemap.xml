@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://sallyn.site/%E9%9A%8F%E7%AC%94/%E6%9D%82%E8%B0%88/2023-10-anime-comment/</loc>
+    
+    <lastmod>2023-12-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sallyn.site/%E9%9A%8F%E7%AC%94/%E6%9D%82%E8%B0%88/repo-to-hibi-live/</loc>
+    
+    <lastmod>2023-12-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://sallyn.site/%E5%AE%9E%E7%94%A8/live-abroad-guide/</loc>
     
     <lastmod>2023-12-28</lastmod>
@@ -63,10 +81,38 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://sallyn.site/tags/repo/</loc>
+    <lastmod>2023-12-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://sallyn.site/tags/%E5%8A%A8%E6%BC%AB/</loc>
+    <lastmod>2023-12-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
     <loc>https://sallyn.site/categories/%E5%AE%9E%E7%94%A8/</loc>
+    <lastmod>2023-12-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://sallyn.site/categories/%E9%9A%8F%E7%AC%94/</loc>
+    <lastmod>2023-12-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://sallyn.site/categories/%E9%9A%8F%E7%AC%94/%E6%9D%82%E8%B0%88/</loc>
     <lastmod>2023-12-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
