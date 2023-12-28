@@ -64,11 +64,11 @@
     <category term="实用" scheme="https://sallyn.site/categories/%E5%AE%9E%E7%94%A8/"/>
     
     
-    <category term="生活" scheme="https://sallyn.site/tags/%E7%94%9F%E6%B4%BB/"/>
+    <category term="演唱会" scheme="https://sallyn.site/tags/%E6%BC%94%E5%94%B1%E4%BC%9A/"/>
     
     <category term="旅行" scheme="https://sallyn.site/tags/%E6%97%85%E8%A1%8C/"/>
     
-    <category term="演唱会" scheme="https://sallyn.site/tags/%E6%BC%94%E5%94%B1%E4%BC%9A/"/>
+    <category term="生活" scheme="https://sallyn.site/tags/%E7%94%9F%E6%B4%BB/"/>
     
   </entry>
   
@@ -96,9 +96,9 @@
     <category term="杂谈" scheme="https://sallyn.site/categories/%E9%9A%8F%E7%AC%94/%E6%9D%82%E8%B0%88/"/>
     
     
-    <category term="演唱会" scheme="https://sallyn.site/tags/%E6%BC%94%E5%94%B1%E4%BC%9A/"/>
-    
     <category term="repo" scheme="https://sallyn.site/tags/repo/"/>
+    
+    <category term="演唱会" scheme="https://sallyn.site/tags/%E6%BC%94%E5%94%B1%E4%BC%9A/"/>
     
   </entry>
   
@@ -125,9 +125,9 @@
     <category term="杂谈" scheme="https://sallyn.site/categories/%E9%9A%8F%E7%AC%94/%E6%9D%82%E8%B0%88/"/>
     
     
-    <category term="repo" scheme="https://sallyn.site/tags/repo/"/>
-    
     <category term="动漫" scheme="https://sallyn.site/tags/%E5%8A%A8%E6%BC%AB/"/>
+    
+    <category term="repo" scheme="https://sallyn.site/tags/repo/"/>
     
   </entry>
   
