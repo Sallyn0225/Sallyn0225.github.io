@@ -109,6 +109,13 @@
   </url>
   
   <url>
+    <loc>https://sallyn.site/tags/%E5%91%A8%E6%8A%A5/</loc>
+    <lastmod>2023-12-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://sallyn.site/tags/%E5%8A%A8%E6%BC%AB/</loc>
     <lastmod>2023-12-29</lastmod>
     <changefreq>weekly</changefreq>
@@ -117,13 +124,6 @@
   
   <url>
     <loc>https://sallyn.site/tags/repo/</loc>
-    <lastmod>2023-12-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://sallyn.site/tags/%E5%91%A8%E6%8A%A5/</loc>
     <lastmod>2023-12-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -146,14 +146,14 @@
   </url>
   
   <url>
-    <loc>https://sallyn.site/categories/%E9%9A%8F%E7%AC%94/%E6%9D%82%E8%B0%88/</loc>
+    <loc>https://sallyn.site/categories/%E9%9A%8F%E7%AC%94/%E7%A0%81%E5%87%8C%E4%B9%A6%E7%89%87/</loc>
     <lastmod>2023-12-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://sallyn.site/categories/%E9%9A%8F%E7%AC%94/%E7%A0%81%E5%87%8C%E4%B9%A6%E7%89%87/</loc>
+    <loc>https://sallyn.site/categories/%E9%9A%8F%E7%AC%94/%E6%9D%82%E8%B0%88/</loc>
     <lastmod>2023-12-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
