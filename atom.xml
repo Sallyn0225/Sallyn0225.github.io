@@ -6,7 +6,7 @@
   <link href="https://sallyn.site/atom.xml" rel="self"/>
   
   <link href="https://sallyn.site/"/>
-  <updated>2023-12-28T14:49:22.598Z</updated>
+  <updated>2023-12-29T01:09:03.870Z</updated>
   <id>https://sallyn.site/</id>
   
   <author>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>玩了一年VRChat的小记</title>
-    <link href="https://sallyn.site/%E6%97%B6%E9%97%B4%E7%BA%BF/VRChat-timeline/"/>
-    <id>https://sallyn.site/%E6%97%B6%E9%97%B4%E7%BA%BF/VRChat-timeline/</id>
+    <link href="https://sallyn.site/%E9%9A%8F%E7%AC%94/%E6%9D%82%E8%B0%88/VRChat-timeline/"/>
+    <id>https://sallyn.site/%E9%9A%8F%E7%AC%94/%E6%9D%82%E8%B0%88/VRChat-timeline/</id>
     <published>2023-12-28T08:50:51.000Z</published>
-    <updated>2023-12-28T14:49:22.598Z</updated>
+    <updated>2023-12-29T01:09:03.870Z</updated>
     
     
       
@@ -34,7 +34,9 @@
     
     
     
-    <category term="时间线" scheme="https://sallyn.site/categories/%E6%97%B6%E9%97%B4%E7%BA%BF/"/>
+    <category term="随笔" scheme="https://sallyn.site/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    <category term="杂谈" scheme="https://sallyn.site/categories/%E9%9A%8F%E7%AC%94/%E6%9D%82%E8%B0%88/"/>
     
     
     <category term="游戏" scheme="https://sallyn.site/tags/%E6%B8%B8%E6%88%8F/"/>
